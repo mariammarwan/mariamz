@@ -1,0 +1,2 @@
+There are 2 major methods in HTTP which are widely supported ( GET and POST ) where get means read smth or request data from some source and post means create smth
+and some of the other methods are limited in their supportion but expanding like delete which means actually delete or put which means update or replace smth
